@@ -1,0 +1,36 @@
+_repo: The-Naples-Riviera_30634
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greiffenhagen, Maurice
+    alias: Greiffenhagen, Maurice William
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '34729'
+    url: http://www.gutenberg.org/2009/agents/34729
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaughan, Herbert M. (Herbert Millingchamp)
+    alias: Vaughan, Herbert Millingchamp
+    birthdate: 1870
+    deathdate: 1948
+    gutenberg_agent_id: '34721'
+    url: http://www.gutenberg.org/2009/agents/34721
+description: ''
+gutenberg_issued: '2009-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- Description and travel'
+- !lcsh 'Naples, Bay of (Italy)'
+title: The Naples Riviera
+url: http://www.gutenberg.org/ebooks/30634
